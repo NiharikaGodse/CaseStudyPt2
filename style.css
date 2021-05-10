@@ -1,0 +1,41 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #4b36c4;
+}
+
+.header_div{
+    background:rgba(1, 255, 170, 0.404);
+    height: fit-content;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.header_div img{
+    width: 100%;  
+}
+h2{
+    color: wheat;
+}
+
+.bob
+{
+	background: #ffffff4f;
+	padding: 30px;
+	border-radius: 20px;
+	width: 50%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px rgb(255, 255, 255);
+    color: black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-color: #00d9ff50;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ 
+ }
